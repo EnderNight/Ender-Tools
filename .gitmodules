@@ -1,3 +1,6 @@
 [submodule "Todoer"]
 	path = Todoer
 	url = git@github.com:EnderNight/Todoer.git
+[submodule "downloads-manager"]
+	path = downloads-manager
+	url = git@github.com:EnderNight/downloads-manager.git
