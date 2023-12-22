@@ -1,0 +1,3 @@
+[submodule "Todoer"]
+	path = Todoer
+	url = git@github.com:EnderNight/Todoer.git
